@@ -1,1 +1,3 @@
 # Homemade-Delights
+Imagine a place where you can explore and order delicious homemade meals from the comfort of your home – introducing Homemade Delights.
+Homemade delights is a web application that offers a range of features to enhance user experience. It is designed to make your dining experience easier and more delightful. It's like having a virtual menu of homemade dishes right at your fingertips. It includes modules such as user authentication, menu management, order management, delivery management, payment and billing, review and feedback, admin dashboard, and notifications. Developed using PHP, this project aims to provide a seamless and efficient platform for managing and enjoying homemade delights.
